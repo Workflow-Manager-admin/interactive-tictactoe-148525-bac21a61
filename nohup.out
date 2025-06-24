@@ -1,0 +1,37 @@
+[2025-06-24T18:16:18.643Z] info  code-server 4.101.1 bd34cd510f44b25d40b3e30ec9a706a949428c16
+[2025-06-24T18:16:18.647Z] info  Using user-data-dir /home/kavia/.local/share/code-server
+[2025-06-24T18:16:18.659Z] info  Using config file /home/kavia/.config/code-server/config.yaml
+[2025-06-24T18:16:18.659Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2025-06-24T18:16:18.659Z] info    - Authentication is disabled
+[2025-06-24T18:16:18.659Z] info    - Not serving HTTPS
+[2025-06-24T18:16:18.659Z] info  Session server listening on /home/kavia/.local/share/code-server/code-server-ipc.sock
+[18:16:23] 
+
+
+
+
+[18:16:23] Extension host agent started.
+[18:16:23] [192.168.65.1][6ffc301a][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[18:16:23] [192.168.65.1][572a7a72][ManagementConnection] New connection established.
+[18:16:24] [192.168.65.1][84d5658c][ExtensionHostConnection] New connection established.
+[18:16:24] ComputeTargetPlatform: linux-arm64
+[18:16:24] [192.168.65.1][84d5658c][ExtensionHostConnection] <260> Launched Extension Host Process.
+[18:16:24] [192.168.65.1][105fa6e0][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[18:16:31] [192.168.65.1][8e12a5b7][ManagementConnection] New connection established.
+[18:16:32] [192.168.65.1][91070500][ExtensionHostConnection] New connection established.
+[18:16:32] [192.168.65.1][91070500][ExtensionHostConnection] <427> Launched Extension Host Process.
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 12
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 13
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 14
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 15
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 16
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 17
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 18
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 19
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 20
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 21
+[18:16:33] RequestStore#acceptReply was called without receiving a matching request 22
